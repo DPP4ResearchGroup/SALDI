@@ -8,4 +8,4 @@ Table
 | Tissue Preparation | Methods used, including protocols and detials of matrix prepration |
 | Optical Image | Information about the optical images used in MSI analysis |
 | Data Acquisition | Instrumentation details and the parameters used in data aquisation |
-| Mass Spectra pre-processing | Records of detailed parameters used in baseline subs
+| Mass Spectra pre-processing | Records of detailed parameters used in baseline subtract 
