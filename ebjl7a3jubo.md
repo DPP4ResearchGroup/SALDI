@@ -2,4 +2,4 @@
 
 Table 
 
-| Catetories | Information in
+| Catetories | Information inclu
