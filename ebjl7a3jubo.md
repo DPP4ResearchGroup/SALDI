@@ -1,6 +1,5 @@
 # Data standards
 
-
 | Catetories | Information records |
 |:---:| :--- |
 | Tissue | Tissue types and sample methods |
