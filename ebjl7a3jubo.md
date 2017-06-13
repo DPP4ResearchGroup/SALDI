@@ -3,4 +3,4 @@
 Table 
 
 | Catetories | Information includes |
-|
+|---
