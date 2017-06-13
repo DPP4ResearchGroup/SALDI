@@ -2,4 +2,4 @@
 
 Table 
 
-| Catetori
+| Catetories
