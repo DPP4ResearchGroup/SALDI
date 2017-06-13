@@ -4,4 +4,5 @@ Table
 
 | Catetories | Information records |
 |:---:| :--- |
-| Tissue | Tissue types and sample methods
+| Tissue | Tissue types and sample methods |
+|
