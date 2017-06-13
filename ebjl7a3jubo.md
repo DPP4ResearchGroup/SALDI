@@ -2,6 +2,6 @@
 
 Table 
 
-| Catetories | Information includes |
+| Catetories | Information recorded |
 |:---:| :--- |
 | Tissue | Tissue types 
