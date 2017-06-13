@@ -4,4 +4,4 @@ Table
 
 | Catetories | Information includes |
 |:---:| :--- |
-| Tissue | 
+| Tissue |  
