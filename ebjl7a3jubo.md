@@ -6,4 +6,4 @@ Table
 |:---:| :--- |
 | Tissue | Tissue types and sample methods |
 | Tissue Preparation | Methods used, including protocols and detials of matrix prepration |
-| Optical Image | Information about the 
+| Optical Image | Information about the optical 
