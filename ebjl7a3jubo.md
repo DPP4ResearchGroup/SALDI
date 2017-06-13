@@ -11,4 +11,4 @@ Table
 | Mass Spectra pre-processing | Records of detailed parameters used in baseline subtraction, smoothing and spectra alignment. If data normalization applied, details for peak peaking and data reduction are also included in here |
 | MSI Visulization | Records of information regarding to pick peaking methods and parameters used in image generation |
 | Analyte Identification | Procedures and parameters used in analyte identification |
-| Data Ana
+| Data Analysis 
