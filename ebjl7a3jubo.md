@@ -5,4 +5,4 @@ Table
 | Catetories | Information records |
 |:---:| :--- |
 | Tissue | Tissue types and sample methods |
-| Tissue Preparation | Methods used, including protocols and 
+| Tissue Preparation | Methods used, including protocols and Matrix p-re
