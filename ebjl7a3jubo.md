@@ -4,4 +4,4 @@ Table
 
 | Catetories | Information records |
 |:---:| :--- |
-| Tissue | Tissue types 
+| Tissue | Tissue types and 
